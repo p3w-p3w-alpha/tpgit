@@ -1,5 +1,4 @@
 apple
 banana
 orange
-mango
-Kiwi
+strawberry
