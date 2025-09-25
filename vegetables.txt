@@ -3,3 +3,5 @@ broccoli
 spinach
 lettuce
 pepper
+cucumber
+tomato
