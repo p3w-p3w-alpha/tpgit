@@ -2,3 +2,5 @@ apple
 banana
 grape
 blueberry
+orange
+strawberry
