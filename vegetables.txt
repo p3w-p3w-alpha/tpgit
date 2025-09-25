@@ -1,3 +1,5 @@
 carrot
 broccoli
 spinach
+cucumber
+tomato
